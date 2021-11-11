@@ -24,3 +24,4 @@ for i in range(len(students)):
 # Takes the totals of each section (sectionTotals) and finds the rounded average of all (avg)
 avg = round(sum(sectionTotals)/len(sectionTotals))
 print("Student body average of all sections:", avg)
+# Answer is 22
